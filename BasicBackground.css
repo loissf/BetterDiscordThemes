@@ -376,7 +376,7 @@ body::after {
 
 /* ~~~~		3.		TITLEBAR						~~~~ */
 
-.titleBar-1it3bQ {
+/*.titleBar-1it3bQ {
 	z-index: 5001;
 }
 .titleBar-1it3bQ::after {
@@ -415,7 +415,7 @@ body::after {
 }
 .winButtonMinMax-3RsPUg:hover {
 	background-color: rgba(var(--transparencycolor), .2);
-}
+}*/
 
 
 /* ~~~~		4.		GUILDLIST						~~~~ */
